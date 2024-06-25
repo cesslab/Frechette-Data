@@ -2,10 +2,12 @@
 Guillaume Frechette's Research Data
 ** This page is a compilation of links to Guillaume Frechette's research data. Below is an index of the file names available for Guillaume's papers, which you can find within this page. **
 
-Rules and Commitment in Communication: An Experimental Analysis:
+Fréchette, Guillaume R., Alessandro Lizzeri, and Jacopo Perego (2021)
+Rules and Commitment in Communication: An Experimental Analysis
  *  Frechette_2022a_data (Data)
 
-The Determinants of Efficient Behavior in Coordination Games:
+Dal Bó, Pedro, Guillaume R. Fréchette, and Jeongbin Kim (2021)
+The Determinants of Efficient Behavior in Coordination Games
   * 03 - Dal_Bo_2021a_meta_data (Meta data)
   * 03 - Dal_Bo_2021a_new_data (Data from our experiment)
 
