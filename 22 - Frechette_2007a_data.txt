@@ -1,0 +1,162 @@
+* Dictionary *
+year:			year
+team1:		Team playing
+team2:		Team playing
+bowl:			Bowl
+nrsuper:		Nielsen rating of the Super Bowl that year
+nrrs:			Average of the Nielsen ratings for the regular season college football games of that year
+nr:			Nielsen rating for that Bowl
+won:			Rank of winning team
+lost:			Rank of losing team
+bc:			= 1 if bowl is part of the Bowl Coalition, = 0 o/w
+ba:			= 1 if bowl is part of the Bowl Alliance, = 0 o/w
+bcs:			= 1 if bowl is part of the Bowl Championship Series, = 0 o/w
+no_of_bowls:	number of bowls played that day (excluding the one in consideration)
+**************
+
+year	team1	team2	bowl	nrsuper	nrrs	nr	won	lost	bc	ba	bcs	no_of_bowls
+1977	"Notre-Dame"	"Texas"	"cotton"				5	1	0	0	0	
+1977	"Penn-State"	"Arizona-State"	"fiesta"				8	15	0	0	0	
+1977	"Arkansas"	"Oklahoma"	"orange"				6	2	0	0	0	
+1977	"Washington"	"Michigan"	"rose"				13	4	0	0	0	
+1977	"Alabama"	"Ohio-State"	"sugar"				3	9	0	0	0	
+1978	"Notre-Dame"	"Houston"	"cotton"				10	9	0	0	0	
+1978	"Arkansas"	"UCLA"	"fiesta"				8	15	0	0	0	
+1978	"Oklahoma"	"Nebraska"	"orange"				4	6	0	0	0	
+1978	"Southern-California"	"Michigan"	"rose"				3	5	0	0	0	
+1978	"Alabama"	"Penn-State"	"sugar"				2	1	0	0	0	
+1979	"Houston"	"Nebraska"	"cotton"				8	7	0	0	0	
+1979	"Pittsburgh"	"Arizona"	"fiesta"				10	26	0	0	0	
+1979	"Oklahoma"	"Florida-State"	"orange"				5	4	0	0	0	
+1979	"Southern-California"	"Ohio-State"	"rose"				3	1	0	0	0	
+1979	"Alabama"	"Arkansas"	"sugar"				2	6	0	0	0	
+1980	"Alabama"	"Baylor"	"cotton"				9	6	0	0	0	
+1980	"Penn-State"	"Ohio-State"	"fiesta"				10	11	0	0	0	
+1980	"Oklahoma"	"Florida-State"	"orange"				4	2	0	0	0	
+1980	"Michigan"	"Washington"	"rose"				5	16	0	0	0	
+1980	"Georgia"	"Notre-Dame"	"sugar"				1	7	0	0	0	
+1981	"Texas"	"Alabama"	"cotton"				6	3	0	0	0	
+1981	"Penn-State"	"Southern-California"	"fiesta"				7	8	0	0	0	
+1981	"Clemson"	"Nebraska"	"orange"				1	4	0	0	0	
+1981	"Washington"	"Iowa"	"rose"				12	13	0	0	0	
+1981	"Pittsburgh"	"Georgia"	"sugar"				10	2	0	0	0	
+1982	"Southern-Methodist"	"Pittsburgh"	"cotton"				4	6	0	0	0	
+1982	"Arizona-State"	"Oklahoma"	"fiesta"				11	12	0	0	0	
+1982	"Nebraska"	"Louisiana-State"	"orange"				3	13	0	0	0	
+1982	"UCLA"	"Michigan"	"rose"				5	19	0	0	0	
+1982	"Penn-State"	"Georgia"	"sugar"				2	1	0	0	0	
+1983	"Georgia"	"Texas"	"cotton"				7	2	0	0	0	
+1983	"Ohio-State"	"Pittsburgh"	"fiesta"				14	15	0	0	0	
+1983	"Miami-(Fla.)"	"Nebraska"	"orange"				5	1	0	0	0	
+1983	"UCLA"	"Illinois"	"rose"				26	4	0	0	0	
+1983	"Auburn"	"Michigan"	"sugar"				3	8	0	0	0	
+1984	"Boston-College"	"Houston"	"cotton"				8	26	0	0	0	4
+1984	"UCLA"	"Miami-(Fla.)"	"fiesta"				14	13	0	0	0	4
+1984	"Washington"	"Oklahoma"	"orange"				4	2	0	0	0	4
+1984	"Southern-California"	"Ohio-State"	"rose"				18	6	0	0	0	4
+1984	"Nebraska"	"Louisiana-State"	"sugar"				5	11	0	0	0	4
+1985	"Texas-A&M"	"Auburn"	"cotton"	48.3	7	12.7	11	16	0	0	0	4
+1985	"Michigan"	"Nebraska"	"fiesta"	48.3	7	14.7	5	7	0	0	0	4
+1985	"Oklahoma"	"Penn-State"	"orange"	48.3	7	21.3	3	1	0	0	0	4
+1985	"UCLA"	"Iowa"	"rose"	48.3	7	22.7	13	4	0	0	0	4
+1985	"Tennessee"	"Miami-(Fla.)"	"sugar"	48.3	7	6.8	8	2	0	0	0	4
+1986	"Ohio-State"	"Texas-A&M"	"cotton"	45.8	6.9	13.6	11	8	0	0	0	4
+1986	"Penn-State"	"Miami-(Fla.)"	"fiesta"	45.8	6.9	24.9	2	1	0	0	0	0
+1986	"Oklahoma"	"Arkansas"	"orange"	45.8	6.9	16	3	9	0	0	0	4
+1986	"Arizona-State"	"Michigan"	"rose"	45.8	6.9	17.7	7	4	0	0	0	4
+1986	"Nebraska"	"Louisiana-State"	"sugar"	45.8	6.9	8.6	6	5	0	0	0	4
+1987	"Texas-A&M"	"Notre-Dame"	"cotton"	41.9	6.2	10	13	12	0	0	0	5
+1987	"Florida-State"	"Nebraska"	"fiesta"	41.9	6.2	8.7	3	5	0	0	0	5
+1987	"Miami-(Fla.)"	"Oklahoma"	"orange"	41.9	6.2	20.8	2	1	0	0	0	5
+1987	"Michigan-State"	"Southern-California"	"rose"	41.9	6.2	16.5	8	16	0	0	0	5
+1987	"Auburn"	"Syracuse"	"sugar"	41.9	6.2	7.9	4	6	0	0	0	5
+1988	"UCLA"	"Arkansas"	"cotton"	43.5	6.2	9.8	9	8	0	0	0	3
+1988	"Notre-Dame"	"West-Virginia"	"fiesta"	43.5	6.2	17	1	3	0	0	0	3
+1988	"Miami-(Fla.)"	"Nebraska"	"orange"	43.5	6.2	12.9	2	6	0	0	0	3
+1988	"Michigan"	"Southern-California"	"rose"	43.5	6.2	10.8	11	5	0	0	0	1
+1988	"Florida-State"	"Auburn"	"sugar"	43.5	6.2	8.1	4	7	0	0	0	3
+1989	"Tennessee"	"Arkansas"	"cotton"	39	6.1	7.5	8	10	0	0	0	5
+1989	"Florida-State"	"Nebraska"	"fiesta"	39	6.1	8.8	5	6	0	0	0	5
+1989	"Notre-Dame"	"Colorado"	"orange"	39	6.1	18.5	4	1	0	0	0	5
+1989	"Southern-California"	"Michigan"	"rose"	39	6.1	14.6	12	3	0	0	0	5
+1989	"Miami-(Fla.)"	"Alabama"	"sugar"	39	6.1	7.4	2	7	0	0	0	5
+1990	"Miami-(Fla.)"	"Texas"	"cotton"	41.9	5.5	9.4	4	3	0	0	0	7
+1990	"Louisville"	"Alabama"	"fiesta"	41.9	5.5	6.2	18	25	0	0	0	7
+1990	"Colorado"	"Notre-Dame"	"orange"	41.9	5.5	18.3	1	5	0	0	0	7
+1990	"Washington"	"Iowa"	"rose"	41.9	5.5	11.9	8	17	0	0	0	7
+1990	"Tennessee"	"Virginia"	"sugar"	41.9	5.5	4.9	10	26	0	0	0	7
+1991	"Florida-State"	"Texas-A&M"	"cotton"	40.3	6.2	10.3	5	9	0	0	0	7
+1991	"Penn-State"	"Tennessee"	"fiesta"	40.3	6.2	7	6	10	0	0	0	7
+1991	"Miami-(Fla.)"	"Nebraska"	"orange"	40.3	6.2	11	1	11	0	0	0	7
+1991	"Washington"	"Michigan"	"rose"	40.3	6.2	15.4	2	4	0	0	0	7
+1991	"Notre-Dame"	"Florida"	"sugar"	40.3	6.2	10.8	18	3	0	0	0	7
+1992	"Notre-Dame"	"Texas-A&M"	"cotton"	45.1	6	10.2	5	4	1	0	0	6
+1992	"Syracuse"	"Colorado"	"fiesta"	45.1	6	6.2	6	10	1	0	0	6
+1992	"Florida-State"	"Nebraska"	"orange"	45.1	6	4	3	11	1	0	0	6
+1992	"Michigan"	"Washington"	"rose"	45.1	6	14.3	7	9	0	0	0	6
+1992	"Alabama"	"Miami-(Fla.)"	"sugar"	45.1	6	18.2	2	1	1	0	0	6
+1993	"Notre-Dame"	"Texas-A&M"	"cotton"	45.5	6.4	11.3	4	7	1	0	0	6
+1993	"Arizona"	"Miami-(Fla.)"	"fiesta"	45.5	6.4	7.9	16	10	1	0	0	6
+1993	"Florida-State"	"Nebraska"	"orange"	45.5	6.4	17.8	1	2	1	0	0	6
+1993	"Wisconsin"	"UCLA"	"rose"	45.5	6.4	11.3	9	14	0	0	0	6
+1993	"Florida"	"West-Virginia"	"sugar"	45.5	6.4	5.2	8	3	1	0	0	6
+1994	"Southern-California"	"Texas-Tech"	"cotton"	41.3	6.4	4.6	21	26	1	0	0	4
+1994	"Colorado"	"Notre-Dame"	"fiesta"	41.3	6.4	6	4	26	1	0	0	4
+1994	"Nebraska"	"Miami-(Fla.)"	"orange"	41.3	6.4	11.4	1	3	1	0	0	4
+1994	"Penn-State"	"Oregon"	"rose"	41.3	6.4	18.2	2	12	0	0	0	4
+1994	"Florida-State"	"Florida"	"sugar"	41.3	6.4	14.9	7	5	1	0	0	4
+1995	"Colorado"	"Oregon"	"cotton"	46	5.8	5.6	7	12	0	0	0	4
+1995	"Nebraska"	"Florida"	"fiesta"	46	5.8	18.8	1	2	0	1	0	1
+1995	"Florida-State"	"Notre-Dame"	"orange"	46	5.8	12.5	8	6	0	1	0	4
+1995	"Southern-California"	"Northwestern"	"rose"	46	5.8	19.2	17	3	0	0	0	4
+1995	"Virginia-Tech"	"Texas"	"sugar"	46	5.8	6.3	13	9	0	1	0	2
+1996	"Brigham-Young"	"Kansas-State"	"cotton"	43.3	4.3	5.6	5	14	0	0	0	5
+1996	"Penn-State"	"Texas"	"fiesta"	43.3	4.3	10	7	20	0	1	0	5
+1996	"Nebraska"	"Virginia-Tech"	"orange"	43.3	4.3	7.8	6	10	0	1	0	2
+1996	"Ohio-State"	"Arizona-State"	"rose"	43.3	4.3	16.5	4	2	0	0	0	5
+1996	"Florida"	"Florida-State"	"sugar"	43.3	4.3	17.9	3	1	0	1	0	0
+1997	"UCLA"	"Texas-A&M"	"cotton"	44.5	3.9	6.2	5	20	0	0	0	6
+1997	"Kansas-State"	"Syracuse"	"fiesta"	44.5	3.9	5.8	8	21	0	1	0	0
+1997	"Nebraska"	"Tennessee"	"orange"	44.5	3.9	13.3	2	7	0	1	0	6
+1997	"Michigan"	"Washington-State"	"rose"	44.5	3.9	17.6	1	9	0	0	0	6
+1997	"Florida-State"	"Ohio-State"	"sugar"	44.5	3.9	11.2	3	12	0	1	0	6
+1998	"Texas"	"Mississippi-State"	"cotton"	40.2	3.8	4.1	20	25	0	0	0	6
+1998	"Tennessee"	"Florida-State"	"fiesta"	40.2	3.8	17.2	1	2	0	0	1	0
+1998	"Florida"	"Syracuse"	"orange"	40.2	3.8	8.4	7	18	0	0	1	6
+1998	"Wisconsin"	"UCLA"	"rose"	40.2	3.8	13.3	9	6	0	0	1	6
+1998	"Ohio-State"	"Texas-A&M"	"sugar"	40.2	3.8	11.5	3	8	0	0	1	6
+1999	"Arkansas"	"Texas"	"cotton"	43.3	4	4.1	24	14	0	0	0	5
+1999	"Nebraska"	"Tennessee"	"fiesta"	43.3	4	9.6	3	6	0	0	1	0
+1999	"Michigan"	"Alabama"	"orange"	43.3	4	11.4	8	5	0	0	1	5
+1999	"Wisconsin"	"Stanford"	"rose"	43.3	4	14.1	4	22	0	0	1	5
+1999	"Florida-State"	"Virginia-Tech"	"sugar"	43.3	4	17.5	1	2	0	0	1	0
+2000	"Kansas-State"	"Tennessee"	"cotton"	40.4	3.8	4.4	11	21	0	0	0	6
+2000	"Oregon-State"	"Notre-Dame"	"fiesta"	40.4	3.8	10.7	5	10	0	0	1	6
+2000	"Oklahoma"	"Florida-State"	"orange"	40.4	3.8	17.8	1	3	0	0	1	6
+2000	"Washington"	"Purdue"	"rose"	40.4	3.8	14	4	14	0	0	1	6
+2000	"Miami"	"Florida"	"sugar"	40.4	3.8	13	2	7	0	0	1	0
+2001	"Oklahoma"	"Arkansas"	"cotton"	40.4	4.2	4.3	10	26	0	0	0	6
+2001	"Oregon"	"Colorado"	"fiesta"	40.4	4.2	11.3	2	3	0	0	1	6
+2001	"Florida"	"Maryland"	"orange"	40.4	4.2	9.5	5	6	0	0	1	0
+2001	"Miami"	"Nebraska"	"rose"	40.4	4.2	13.8	1	4	0	0	1	6
+2001	"LSU"	"Illinois"	"sugar"	40.4	4.2	8.6	12	7	0	0	1	6
+2002	"Texas"	"Louisiana-State"	"cotton"	40.7	3.8	3.4	9	26	0	0	0	6
+2002	"Ohio-State"	"Miami-(Fla.)"	"fiesta"	40.7	3.8	17.2	2	1	0	0	1	0
+2002	"Southern-California"	"Iowa"	"orange"	40.7	3.8	9.7	5	3	0	0	1	6
+2002	"Oklahoma"	"Washington-State"	"rose"	40.7	3.8	11.3	8	7	0	0	1	6
+2002	"Georgia"	"Florida-State"	"sugar"	40.7	3.8	9.2	4	16	0	0	1	6
+2003	"Mississippi"	"Oklahoma-State"	"cotton"	41.4	3.7	4.3	16	21	0	0	0	2
+2003	"Ohio-State"	"Kansas-State"	"fiesta"	41.4	3.7	8.5	7	8	0	0	1	2
+2003	"Miami-(Fla.)"	"Florida-State"	"orange"	41.4	3.7	9.1	10	9	0	0	1	3
+2003	"Southern-California"	"Michigan"	"rose"	41.4	3.7	14.3	1	4	0	0	1	0
+2003	"Louisiana-State"	"Oklahoma"	"sugar"	41.4	3.7	14.8	2	3	0	0	1	0
+2004	"Tennessee"	"Texas-A&M"	"cotton"	41.1	3.3	2.6	15	22	0	0	0	6
+2004	"Utah"	"Pittsburgh"	"fiesta"	41.1	3.3	7.4	5	19	0	0	1	6
+2004	"Southern-California"	"Oklahoma"	"orange"	41.1	3.3	13.7	1	2	0	0	1	6
+2004	"Texas"	"Michigan"	"rose"	41.1	3.3	12.4	6	13	0	0	1	6
+2004	"Auburn"	"Virginia-Tech"	"sugar"	41.1	3.3	9.5	3	9	0	0	1	0
+2005	"Alabama"	"Texas-Tech"	"cotton"	41.6	3.2	3.7	13	18	0	0	0	5
+2005	"Ohio-State"	"Notre-Dame"	"fiesta"	41.6	3.2	12.9	4	5	0	0	1	5
+2005	"Penn-State"	"Florida-State"	"orange"	41.6	3.2	12.3	3	22	0	0	1	0
+2005	"Texas"	"Southern-California"	"rose"	41.6	3.2	21.7	2	1	0	0	1	0
+2005	"West-Virginia"	"Georgia"	"sugar"	41.6	3.2	9	11	8	0	0	1	5
