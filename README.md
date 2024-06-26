@@ -1,6 +1,8 @@
 # Frechette-Data
 ** This GitHub page is a compilation of links to Guillaume Frechette's research data. Below is an index of Guillaume's papers with data available to download, which you can find within this GitHub page. **
 
+-----
+
 Fréchette, Guillaume R., Alessandro Lizzeri, and Jacopo Perego (2021)
 Rules and Commitment in Communication: An Experimental Analysis
   * Frechette_2022a_data (Data)
