@@ -10,7 +10,7 @@ Rules and Commitment in Communication: An Experimental Analysis
 Dal Bó, Pedro, Guillaume R. Fréchette, and Jeongbin Kim (2021)
 The Determinants of Efficient Behavior in Coordination Games
   * Meta data: 03 - Dal_Bo_2021a_meta_data
-  * Data from our experiment: [03 - Dal_Bo_2021a_new_data](03 - Dal_Bo_2021a_new_data.txt)
+  * Data from our experiment: [03 - Dal_Bo_2021a_new_data](Dal_Bo_2021a_new_data.txt)
 
 Dal Bó, Pedro and Guillaume R. Fréchette (2019)
 Strategy Choice In The Infinitely Repeated Prisoners Dilemma
