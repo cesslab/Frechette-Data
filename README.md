@@ -5,7 +5,7 @@
 
 Fréchette, Guillaume R., Alessandro Lizzeri, and Jacopo Perego (2021)
 Rules and Commitment in Communication: An Experimental Analysis
-  * Data: Frechette_2022a_data
+  * Data: [Frechette_2022a_data](Frechette_2022a_data.txt)
 
 Dal Bó, Pedro, Guillaume R. Fréchette, and Jeongbin Kim (2021)
 The Determinants of Efficient Behavior in Coordination Games
