@@ -9,41 +9,41 @@ Rules and Commitment in Communication: An Experimental Analysis
 
 Dal Bó, Pedro, Guillaume R. Fréchette, and Jeongbin Kim (2021)
 The Determinants of Efficient Behavior in Coordination Games
-  * Meta data: 03 - Dal_Bo_2021a_meta_data
+  * Meta data: [03 - Dal_Bo_2021a_meta_data](03%20-%20Dal_Bo_2021a_meta_data.txt)
   * Data from our experiment: [03 - Dal_Bo_2021a_new_data](03%20-%20Dal_Bo_2021a_new_data.txt)
 
 Dal Bó, Pedro and Guillaume R. Fréchette (2019)
 Strategy Choice In The Infinitely Repeated Prisoners Dilemma
-  * Data: 04 - Dal_Bo_2019a_data
+  * Data: [04 - Dal_Bo_2019a_data](04%20-%20Dal_Bo_2019a_data.txt)
 
 Aoyagi, Masaki, V. Bhaskar, and Guillaume R. Fréchette (2019)
 The Impact of Monitoring in Infinitely Repeated Games: Perfect, Public, and Private
-  * Data: 06 - Aoyagi_2019a_data
+  * Data: [06 - Aoyagi_2019a_data](06%20-%20Aoyagi_2019a_data.txt)
 
 Dal Bó, Pedro and Guillaume R. Fréchette (2018)
 On the Determinants of Cooperation in Infinitely Repeated Games: A Survey
-  * Data: 07 - Dal_Bo_2016a_data
+  * Data: [07 - Dal_Bo_2016a_data](07%20-%20Dal_Bo_2016a_data.txt)
 
 Embrey, Matthew, Guillaume R. Fréchette, and Sevgi Yuksel (2018)
 Cooperation in the Finitely Repeated Prisoner's Dilemma
-  * Meta data: 08 - Embrey_2018a_meta_data
-  * Data from our experiment: 08 - Embrey_2018a_new_data
+  * Meta data: [08 - Embrey_2018a_meta_data](08%20-%20Embrey_2018a_meta_data.txt)
+  * Data from our experiment: [08 - Embrey_2018a_new_data](08%20-%20Embrey_2018a_new_data.txt)
 
 Fréchette, Guillaume R. and Emanuel Vespa (2017)
 The Determinants of Voting in Multilateral Bargaining Games
-  * Data: 09 - Frechette_2017b_data
+  * Data: [09 - Frechette_2017b_data](09%20-%20Frechette_2017b_data.txt)
 
 Fréchette, Guillaume R., Andrew Schotter, and Isabel Treviño (2017)
 Personality, Information Acquisition and Choice under Uncertainty: An Experimental Study
-  * Data: 10 - Frechette_2016b_data
+  * Data: [10 - Frechette_2016b_data](10%20-%20Frechette_2016b_data.txt)
   
 Fréchette, Guillaume R. and Sevgi Yuksel (2017)
 Infinitely Repeated Games in the Laboratory: Four Perspectives on Discounting and Random Termination
-  * Data: 11 - Frechette_2017a_data
+  * Data: [11 - Frechette_2017a_data](11%20-%20Frechette_2017a_data.txt)
 
 Agranov, Marina, Guillaume R. Fréchette, Thomas Palfrey, and Emanuel Vespa (2016)
 Static and Dynamic Underinvestment: An Experimental Investigation
-  * Data: 12 - Agranov_2016a_data
+  * Data: [12 - Agranov_2016a_data](12%20-%20Agranov_2016a_data.txt)
 
 Embrey, Matthew, Guillaume R. Fréchette, and Steven F. Lehrer (2015)
 Bargaining and Reputation: Experimental Evidence on Bargaining in the Presence of Irrational Types
