@@ -1,6 +1,5 @@
 # Frechette-Data
-Guillaume Frechette's Research Data
-** This Github page is a compilation of links to Guillaume Frechette's research data. Below is an index of the file names available for Guillaume's papers, which you can find within this page. **
+** This GitHub page is a compilation of links to Guillaume Frechette's research data. Below is an index of Guillaume's papers with data available to download, which you can find within this GitHub page. **
 
 Fréchette, Guillaume R., Alessandro Lizzeri, and Jacopo Perego (2021)
 Rules and Commitment in Communication: An Experimental Analysis
@@ -50,21 +49,21 @@ Bargaining and Reputation: Experimental Evidence on Bargaining in the Presence o
 
 Fréchette, Guillaume R., John H. Kagel, and Massimo Morelli (2012)
 Pork Versus Public Goods: An Experimental Study of Public Good Provision Within a Legislative Bargaining Framework
-  * 17 - Frechette_2011a_data
+  * 17 - Frechette_2011a_data (Data)
 
 Dal Bó, Pedro and Guillaume R. Fréchette (2011)
 The Evolution of Cooperation in Infinitely Repeated Games: Experimental Evidence
-  * 18 - Dal_Bo_2011a_data
+  * 18 - Dal_Bo_2011a_data (Data)
 
 Aoyagi, Masaki and Guillaume R. Fréchette (2009)
 Collusion as Public Monitoring Becomes Noisy: Experimental Evidence
-  * 20 - Aoyagi_2009a_data
+  * 20 - Aoyagi_2009a_data (Data)
 
 Fréchette, Guillaume R., Francois Maniquet, and Massimo Morelli (2008)
 Incumbents' Interests, Voters' Bias and Gender Quotas
-  * 21- Frechette_2007b_1997_data
-  * 21 - Frechette_2007b_2002_data
-  * 21 - Frechette_2007b_2007_data
+  * 21- Frechette_2007b_1997_data (1997 Data)
+  * 21 - Frechette_2007b_2002_data (2002 Data)
+  * 21 - Frechette_2007b_2007_data (2007 Data)
 
 Fréchette, Guillaume R., Alvin E. Roth, and M. Utku Unver (2007)
 Unraveling Yields Inefficient Matchings: Evidence from Post-Season College Football Bowls
@@ -76,15 +75,15 @@ Bargaining and Network Structure: An Experiment
 
 Fréchette, Guillaume R., John H. Kagel, and Massimo Morelli (2005)
 Behavioral Identification in Coalitional Bargaining: An Experimental Analysis of Demand Bargaining and Alternating Offers
-  * 25 - Frechette_2005c_data
+  * 25 - Frechette_2005c_data (Data)
 
 Fréchette, Guillaume R., John H. Kagel, and Massimo Morelli (2005)
 Nominal Bargaining Power, Selection Protocol, and Discounting in Legislative Bargaining
-  * 26 - Frechette_2005b_data
+  * 26 - Frechette_2005b_data (Data)
 
 Fréchette, Guillaume R., John H. Kagel, and Massimo Morelli (2005)
 Gamson's Law versus Non-Cooperative Bargaining Theory
-  * 27 - Frechette_2005a_data
+  * 27 - Frechette_2005a_data (Data)
 
 Charness, Gary, Guillaume R. Fréchette, and John H. Kagel (2004)
 How Robust is Laboratory Gift Exchange?
@@ -92,7 +91,7 @@ How Robust is Laboratory Gift Exchange?
 
 Fréchette, Guillaume R., John H. Kagel, and Steven F. Lehrer (2003)
 Bargaining in Legislatures: An Experimental Investigation of Open versus Closed Amendment Rules
-  * 29 - Frechette_2003a_data
+  * 29 - Frechette_2003a_data (Data)
 
 
 
